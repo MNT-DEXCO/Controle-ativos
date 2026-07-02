@@ -1,0 +1,17 @@
+{
+  "name": "Dexco | Gestão de Ativos",
+  "short_name": "Ativos Dexco",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#000000",
+  "description": "Sistema de Gestão de Ativos, Motores e Manutenção da Dexco.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='140' fill='%23000000'/%3E%3Cpath d='M256 120L120 256l136 136 136-136L256 120z' fill='none' stroke='%23ffffff' stroke-width='40'/%3E%3C/svg%3E",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}

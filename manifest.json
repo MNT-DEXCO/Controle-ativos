@@ -1,0 +1,16 @@
+{
+  "name": "Portal IAM Dexco",
+  "short_name": "Portal IAM",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='140' fill='%23050505'/%3E%3Cpath d='M256 120L120 256l136 136 136-136L256 120z' fill='none' stroke='%23ffffff' stroke-width='40'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

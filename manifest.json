@@ -1,0 +1,42 @@
+{
+  "name": "Dexco Gestão de Ativos",
+  "short_name": "Ativos Dexco",
+  "description": "Sistema de Gestão e Movimentação de Ativos",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2830/2830305.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2830/2830305.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+{
+  "name": "Dexco Gestão de Ativos",
+  "short_name": "Ativos Dexco",
+  "description": "Sistema de Gestão e Movimentação de Ativos",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2830/2830305.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2830/2830305.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

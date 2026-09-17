@@ -1,4 +1,4 @@
-const CACHE_NAME = 'dexco-ativos-v2';
+const CACHE_NAME = 'dexco-ativos-v3';
 const ASSETS_TO_CACHE = [
     './',
     './index.html',
